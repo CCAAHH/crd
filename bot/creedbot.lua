@@ -240,20 +240,21 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {118682430},--Sudo users
+    sudo_users = {118333567,75213323,139990182,121069994,171618507,121259485},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Creed bot 2.3
+    about_text = [[POBBOT bot 2.3
     
      Hello my Good friends 
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by: @best_boy
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
-   ߔࠀ   @sorblack_creed
-   ߔࠀ   @amircc_creed
-   ߔࠀ   @aria_creed
+   ߔࠀ  @best_boy 
+   ߔࠀ  @botasad        
+   ߔࠀ  @dawsh_SaLvAdoR
+    
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
@@ -342,6 +343,8 @@ This command will send text to [group_id]✉️
 
 You Can user both "!" & "/" for them
 میتوانید از هردوی کاراکتر های ! و / برای دستورات استفاده کنید
+
+@pobbotchanl
 
 
 ]],
@@ -537,9 +540,9 @@ To tags the every one and sends your message at bottom
 
 〰〰〰〰〰〰〰〰〰
 More plugins  soon ...
-⚠️ We are Creeds ⚠️
+⚠️ We are best ⚠️
 
-our channel : @creedantispam_channel
+our channel : @pobbotchanl
 کانال ما
 
 You Can user both "!" & "/" for them
